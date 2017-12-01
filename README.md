@@ -16,6 +16,4 @@ Usage: ./artie.py http://news.com/2017/11/30/media/man-bites-dog-apology/index.h
 This is version 1.0
 
 
-<a href="http://www.james-a-russell.com/blog/wp-content/uploads/2017/12/demo-artie.gif" title="artie.py Demo"/></a>
-
-<a href="https://imgflip.com/gif/20c5te"><img src="https://i.imgflip.com/20c5te.gif" title="made at imgflip.com"/></a>
+<a href="http://www.james-a-russell.com/blog/wp-content/uploads/2017/12/demo-artie"><img src="http://www.james-a-russell.com/blog/wp-content/uploads/2017/12/demo-artie.gif" title="artie.py Demo"/></a>
