@@ -17,3 +17,5 @@ This is version 1.0
 
 
 <a href="http://www.james-a-russell.com/blog/wp-content/uploads/2017/12/demo-artie.gif" title="artie.py Demo"/></a>
+
+<a href="https://imgflip.com/gif/20c5te"><img src="https://i.imgflip.com/20c5te.gif" title="made at imgflip.com"/></a>
