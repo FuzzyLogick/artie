@@ -44,15 +44,16 @@ def process(url):
 
 
     print("")
-    print("++++++++++++++++++++++++++++++++++++++++++++++++++")
+    print("+"*50)
     print("")
-    print(page.title)
+    print("Title:  "+(page.title))
     print("")
     print(page.authors)
     print("")
+    print("")
     print(page.text)
     print("")
-    print("++++++++++++++++++++++++++++++++++++++++++++++++++")
+    print("+"*50)
     print("")
 
 
